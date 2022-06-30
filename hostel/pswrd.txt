@@ -1,0 +1,2 @@
+Login Details for admin : admin/admin
+Login Details for user : user1@gmail.com/user1
